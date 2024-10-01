@@ -89,7 +89,7 @@ table th, table td {
 table th {
     background-color: #1b1b1b;
     color: white;
-    text-align: left;
+    text-align: ;
 }
 
 table tr:nth-child(even) {
